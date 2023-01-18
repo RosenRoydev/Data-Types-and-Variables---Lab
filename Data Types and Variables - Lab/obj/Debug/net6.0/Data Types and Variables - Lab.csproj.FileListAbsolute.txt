@@ -1,0 +1,15 @@
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\bin\Debug\net6.0\Data Types and Variables - Lab.exe
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\bin\Debug\net6.0\Data Types and Variables - Lab.deps.json
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\bin\Debug\net6.0\Data Types and Variables - Lab.runtimeconfig.json
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\bin\Debug\net6.0\Data Types and Variables - Lab.dll
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\bin\Debug\net6.0\Data Types and Variables - Lab.pdb
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.csproj.AssemblyReference.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.AssemblyInfoInputs.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.AssemblyInfo.cs
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.csproj.CoreCompileInputs.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.dll
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\refint\Data Types and Variables - Lab.dll
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.pdb
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\Data Types and Variables - Lab.genruntimeconfig.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\Data Types and Variables - Lab\obj\Debug\net6.0\ref\Data Types and Variables - Lab.dll

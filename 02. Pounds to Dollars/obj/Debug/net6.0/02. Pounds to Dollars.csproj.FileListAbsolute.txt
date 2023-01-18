@@ -1,0 +1,15 @@
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.exe
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.deps.json
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.dll
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.pdb
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.dll
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\refint\02. Pounds to Dollars.dll
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.pdb
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\E5540\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net6.0\ref\02. Pounds to Dollars.dll
